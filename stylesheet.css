@@ -1,0 +1,293 @@
+.box{
+    height: 1200px;
+    width: 300px;
+    background-color: wheat;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+}
+
+.box1{
+    
+    text-align: center;
+    h2{
+        font-family: cursive;
+    }
+    h4{
+        font-family: cursive;
+    }
+    li{
+        background-color: rgb(204, 199, 199);
+        list-style: none;
+    }
+    
+}
+.line{
+    height: 2px;
+    width: 300px;
+    background-color: black;
+}
+.sline1{
+    height: 1px;
+    width: 300px;
+    background-color: black;
+}
+.sline2{
+    height: 1px;
+    width: 300px;
+    background-color: black;
+}
+.sline3{
+    height: 1px;
+    width: 300px;
+    background-color: black;
+}
+.sline4{
+    height: 1px;
+    width: 300px;
+    background-color: black;
+}
+.sline5{
+    height: 1px;
+    width: 300px;
+    background-color: black;
+}
+.sline6{
+    height: 1px;
+    width: 300px;
+    background-color: black;
+}
+.sline7{
+    height: 1px;
+    width: 300px;
+    background-color: black;
+}
+.sline8{
+    height: 1px;
+    width: 300px;
+    background-color: black;
+}
+.sline9{
+    height: 1px;
+    width: 300px;
+    background-color: black;
+}
+.sline10{
+    height: 1px;
+    width: 300px;
+    background-color: black;
+
+}
+.box2{
+    p{
+        font-family: cursive;
+    }
+    background-color: rgb(204, 199, 199);
+    
+}
+.bb3{
+    background-color: wheat;
+    h4{
+        font-family: cursive;
+        text-align: center;
+    }}
+    .bb4{
+        background-color: wheat;
+        h4{
+            font-family: cursive;
+        }
+    }
+    .rbox{
+        background-color: wheat;
+        width: 300px;
+        border-radius: 20%;
+        border-color: black;
+        border-width: 1px;
+        border-style: solid;       
+        text-align: center;
+        p{
+            opacity: 0.5;
+        }
+        
+
+    }
+    
+    
+    .sidebox{
+        
+        border: 3px solid black;
+        background-color: wheat;
+        height: 1200px;
+        width: 100%;
+        
+        margin-left: 10px;
+    }
+    .topbar{
+        position: relative;
+        display: flex;
+    }
+    .name{
+        position: absolute;
+        left: 0px;
+    }
+    .sidebar{
+        position: absolute;
+        right: 0px;
+    }
+    .project{
+        height: 1200px;
+        width: 1305;
+        display: flex;
+        margin: 5px;
+        background-color: wheat;
+        
+    }
+    .icontxt{
+    
+        font-family: cursive;
+    }
+    
+    .img{
+        display: flex;
+        text-align: center;
+        margin: 3px;
+    }
+    .heading{
+        h1{
+            font-family: cursive;
+            text-align: center;
+        }
+        .line{
+            width: 100%;
+            height: 2px;
+            background-color: black;
+        }
+    }
+    .upbox{
+        display: flex;
+        
+        
+    }
+    .sbox1{
+        text-align: center;
+        height: 355px;
+        width: 400px;
+        border: black solid 2px;
+        
+
+        h4{
+            font-family: cursive;
+
+        }
+     .bline{
+            width: 400px;
+            height: 2px;
+            background-color: black;
+        }
+        .bline2{
+            width: 400px;
+            height: 2px;
+            background-color: black;
+        }
+        .bline3{
+            width: 400px;
+            height: 2px;
+            background-color: black;
+        }
+        .bline4{
+            width: 400px;
+            height: 2px;
+            background-color: black;
+        }
+        
+        
+
+    }
+    .sbox2{
+        
+            h4{
+                font-family: cursive;
+            }
+            p{
+                font-family: cursive;
+            }
+            .bbline1{
+                width: 450px;
+                height: 2px;
+                background-color: black;
+            }
+            height: 355px;
+            width: 450px;
+            border: black solid 2px;
+            
+    }
+.sbox3{
+    h4{
+        font-family: cursive;
+    }
+        
+        height: 355px;
+        width: 400px;
+        border: black solid 2px;
+}
+.downbox{
+    h4{
+        font-family: cursive;
+
+    }
+    .roundbox{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .rbox1{
+        background-color: wheat;
+        width: 300px;
+        border-radius: 20%;
+        border-color: black;
+        border-width: 1px;
+        border-style: solid;       
+        text-align: center;
+        p{
+            opacity: 0.5;
+        }
+        
+
+    }
+    .rbox2{
+        background-color: wheat;
+        width: 300px;
+        border-radius: 20%;
+        border-color: black;
+        border-width: 1px;
+        border-style: solid;       
+        text-align: center;
+        p{
+            opacity: 0.5;
+        }
+        
+
+    }
+    .rbox3{
+        background-color: wheat;
+        width: 300px;
+        border-radius: 20%;
+        border-color: black;
+        border-width: 1px;
+        border-style: solid;       
+        text-align: center;
+        p{
+            opacity: 0.5;
+        }
+
+
+}
+}
+.iconss
+{
+    
+    display: flex;
+    justify-content: center;
+    
+}
+    
+
